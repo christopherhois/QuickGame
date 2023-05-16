@@ -5,7 +5,7 @@ Welcome to Guess the Number! This is a simple Python script that generates a ran
 
 How to Run
 Install Python 3 on your machine if you haven't already.
-Download the "guess_number.py" file from this repository.
+Download the "first.py" file from this repository.
 Open a terminal or command prompt and navigate to the directory where you saved the file.
-Run the following command: python guess_number.py
+Run the following command: python first.py
 Follow the instructions in the console to play the game.
