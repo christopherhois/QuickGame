@@ -1,5 +1,5 @@
 # QuickGame
-"Take a risk and test your luck with the dangerous numbers guessing game - can you guess the number before time runs out?"
+"Take a risk and test your luck with the dangerous numbers guessing game - can you guess the number before the time runs out?"
 
 Welcome to Guess the Number! This is a simple Python script that generates a random number between 1 and 100 and asks the user to guess it. It also provides a rating system based on the number of attempts it takes to guess the number.
 
